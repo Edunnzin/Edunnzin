@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edunnzin&label=Profile%20views&color=0e75b6&style=flat" alt="edunnzin" /> </p>
 
-- ☁️ Oque eu estou trabalhando agora. **Nenhum projeto.**
+- ☁️ Oque eu estou trabalhando agora! **Nenhum projeto.**
 
-- 🌱 Estou aprendendo. **React.js, Next.js.**
+- 🌱 Estou aprendendo! **React.js, Next.js.**
 
-- 👯 Estou procurando colaboradores em. **Nenhum projeto.**
+- 👯 Estou procurando colaboradores em! **Nenhum projeto.**
 
-- 🤝 Estou precisando de ajuda **Nenhum projeto.**
+- 🤝 Estou precisando de ajuda em! **Nenhum projeto.**
 
-- 📫 Como chegar até mim. **contatoedunn@gmail.com ou no Discord @edunnzin.**
+- 📫 Como chegar até mim! **contatoedunn@gmail.com ou no Discord @edunnzin.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
